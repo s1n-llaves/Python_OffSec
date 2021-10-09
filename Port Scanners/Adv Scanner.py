@@ -11,4 +11,4 @@ import optparse
 from threading import *
 
 def main():
-    ''thi is not done yet
+    ''
