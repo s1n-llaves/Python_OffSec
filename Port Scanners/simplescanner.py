@@ -3,7 +3,9 @@ import socket
 
 sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 
-host = "192.168.198.130"
+#change ip here
+
+host = "192.168.198.130" 
 port = 443
 
 def portscanner(port):
